@@ -1,5 +1,7 @@
 # Curso HTML 5, CSS 3 e JS
-Por Curso em Vídeo <br />
+## Por Curso em Vídeo 
+PS: Repositório utilizado para treimento das linguagens <br />
+Esse arquivo tem um resumão, espero que ajude <3 <br />
 Obs: png é mais pesado <br />
 Tons de cinza: #606060, #666666, #cecece <br />
 
